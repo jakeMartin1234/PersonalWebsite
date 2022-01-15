@@ -93,6 +93,8 @@ CPUimg {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: 100%;
+  max-height: 100%;
   width: 50%;
 }
 
@@ -101,6 +103,8 @@ giff {
   margin-left: auto;
   margin-right: auto;
   width: 70%;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 gitImage {
@@ -108,6 +112,8 @@ gitImage {
   margin-left: auto;
   margin-right: auto;
   width: 55%;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 hr {
